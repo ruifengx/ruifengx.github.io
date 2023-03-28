@@ -1,8 +1,11 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 6
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I am a PhD student in [the Programming Language Laboratory](https://pl.cs.pku.edu.cn) of [Peking University](https://english.pku.edu.cn/), supervised by [Prof. Zhenjiang Hu](https://zhenjiang888.github.io/). I am interested in programming language theories, functional programming, algebraic effects, and bidirectional transformations in particular.
+
+## Education
+
+* PhD in Programming Language Theories, Peking University, 2021 - Present
+* BS in Computer Science, Peking University, 2017 - 2021
